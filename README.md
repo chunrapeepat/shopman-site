@@ -5,4 +5,4 @@ Shopman is the plugin for minecraft server supported on version 1.8++. You can s
 
 ## Developer
 developed by Chun Rapeepat @chunza2542
-[get in touch!](htts://facebook.com/chun42)
+[htts://facebook.com/chun42](get in touch!)
